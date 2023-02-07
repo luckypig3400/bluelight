@@ -3,7 +3,7 @@
     {
       "AETitle": "DCM4CHEE",
       "enableHTTPS": false,
-      "hostname": "localhost",
+      "hostname": "10.40.8.124",
       "PORT": 8080,
       "contentType": "application/json",
       "timeout": 80000,
@@ -28,7 +28,7 @@
     {
       "AETitle": "DCM4CHEE",
       "enableHTTPS": false,
-      "hostname": "localhost",
+      "hostname": "10.40.8.124",
       "PORT": 8080,
       "contentType": "application/json",
       "timeout": 80000,
