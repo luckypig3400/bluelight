@@ -23,8 +23,6 @@
       "Xml2DcmUrl": "/upload",
       "target": "http://10.40.8.124:8080/",
       "target_wsi": "bluelight/bluelight/html/start.html",
-      "target_bak": "https://10.40.8.124/bluelight/bluelight/html/start.html",
-      "target_wsi_bak": "../../bluelight/bluelight/html/start.html",
       "token": {
         "apikey": "",
         "bearer": ""
